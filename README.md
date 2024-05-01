@@ -4,7 +4,7 @@ I'm Mary, a computer science student based in London, United Kingdom. Currently,
 
 When I'm not coding, I'm deeply intrigued by the latest scientific developments and enjoy staying updated on breakthroughs in various fields. On weekends, I like to explore the beautiful landscapes of London through my passion for running.
 
-Feel free to reach out to me via email at [<i class="fas fa-envelope"></i>](mailto:marycamara101@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mary-camara-9137b820a/).
+Feel free to reach out to me via email at [Email](mailto:marycamara101@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marycamara/).
 
 
 <!--
