@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 I'm Mary, a computer science student based in London, United Kingdom. Currently, I'm focused on enhancing my skills in full-stack web development.
 
