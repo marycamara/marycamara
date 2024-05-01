@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-# Hi there! 👋
-
 I'm Mary, a computer science student based in London, United Kingdom. Currently, I'm focused on enhancing my skills in full-stack web development.
 
 When I'm not coding, I'm deeply intrigued by the latest scientific developments and enjoy staying updated on breakthroughs in various fields. On weekends, I like to explore the beautiful landscapes of London through my passion for running.
