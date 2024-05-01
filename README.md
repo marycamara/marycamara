@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- I'm Mary, a computer science student from London, United Kingdom.
+- I’m currently working on honing my skills in full-stack web development.
+- Outside of work and studies, I enjoy running on the weekends!
+- You can reach me via email at marycamara101@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/marycamara/).
+<!--
 <!--
 **marycamara/marycamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
